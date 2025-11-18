@@ -64,3 +64,31 @@ Discussed:
 Decisions:
 
 - to finalise code by Friday and have another meeting that same evening (online)
+
+## Minutes of Meeting Week 7
+
+### Date: 30.10.2025
+
+Present: Slava, Ethan, Jakob
+
+*Minutes missing??*
+
+## Minutes of Meeting Week 8
+
+### Date: 6.11.2025
+
+Present: Slava, Ethan, Jakob
+
+*Minutes missing??*
+
+## Minutes of Meeting Week 9
+
+### Date: 13.11.2025
+
+Present: Ethan, Jakob
+
+Discussed:
+- Each others contributions to the project and how to include each others findings in the complete report.
+
+Decisions:
+- Use video submission as main source of information of results. 
