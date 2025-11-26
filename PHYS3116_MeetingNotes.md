@@ -71,7 +71,11 @@ Decisions:
 
 Present: Slava, Ethan, Jakob
 
-*Minutes missing??*
+Discussed:
+- Relevant papers to the project
+
+Decisions:
+- Continue reading and reporting back in the shared google doc
 
 ## Minutes of Meeting Week 8
 
@@ -79,7 +83,13 @@ Present: Slava, Ethan, Jakob
 
 Present: Slava, Ethan, Jakob
 
-*Minutes missing??*
+Discussed:
+- Relevant papers to the project
+
+Decisions:
+- Continue reading and reporting back in the shared google doc
+
+Use video submission as main source of information of results.
 
 ## Minutes of Meeting Week 9
 
